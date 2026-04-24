@@ -41,8 +41,8 @@ document.addEventListener("DOMContentLoaded", function () {
         container.innerHTML = `
             <span class="join-label">JOIN NOW:</span>
             <a href="https://whatsapp.com/channel/0029VaB5GSX96H4JVQ8nKr2O" class="img-btn wa-btn" target="_blank" rel="noopener">${icons.wa} WhatsApp</a>
-            <a href="https://t.me/SarkariJob24_com" class="img-btn tg-btn" target="_blank" rel="noopener">${icons.tg} Telegram</a>
-            <a href="https://www.facebook.com/SarkariJob24.ComOfficial" class="img-btn fb-btn" target="_blank" rel="noopener">${icons.fb} Facebook</a>
+            <a href="https://t.me/TopSarkariResult_com" class="img-btn tg-btn" target="_blank" rel="noopener">${icons.tg} Telegram</a>
+            <a href="https://www.facebook.com/TopSarkariResult.ComOfficial" class="img-btn fb-btn" target="_blank" rel="noopener">${icons.fb} Facebook</a>
         `;
     });
 });
